@@ -1,4 +1,4 @@
 # web_piano
 Web Piano is in the beginning stages. 
-I want to add better samples and maybe ADSR and a filter. 🎛
-Yuh. 🤙🏻
+<p>I want to add better samples and maybe ADSR and a filter. 🎛</p>
+<p><em>Yuh.</em> 🤙</p>🏻
